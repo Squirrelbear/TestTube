@@ -47,6 +47,8 @@ to 10 test tubes, with 2 empty test tubes at the end, and an additional 2 that w
 everything has moved around. The puzzle used up to four colours, but in this case only 3 were
 randomly selected.
 
+<img src="./images/Picture1.jpg">
+
 If the player wished to change the difficulty, they could press the Difficulty button located at the top
 left. This would display a dialog as shown below in the two images. The default settings are shown on
 the left. Moving the Tubes slider will modify the maximums for both the Empty and Empty at End.
