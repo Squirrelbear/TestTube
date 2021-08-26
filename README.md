@@ -56,21 +56,27 @@ Empty can only have a max of half the Tubes value, and Empty at End only has a m
 Empty is set to. Colours is based on the total set of colours available. In this case there are 8 defined
 colours.
 
+<img src="./images/Picture2.jpg"> <img src="./images/Picture3.jpg">
+
 In this case the settings it has been changed to on the right would create a game with 20 test tubes
 where at the end solution 4 would be empty, and 2 test tubes start empty at the end, with maximum
 variety of 8 colours across them. An example of what this could come out as is shown on the following
 page.
 
+<img src="./images/Picture4.jpg">
 
 As you can see the above conforms to the specified requirements. Below you can find another
 different example where the settings used were 14 test tubes, 4 empty test tubes, with 2 at the end,
 and 4 colours. Over the next few images there will be some examples of how the game is played using
 this puzzle.
 
+<img src="./images/Picture5.jpg">
+
 Initially note how the restart button would allow you to restart back to this initial state at any point.
 Additionally after making at least one change, you can press the undo button to keep undoing actions
 all the way back until you are also at the initial puzzle state.
 
+<img src="./images/Picture6.jpg">
 
 In the above image you can see an example of a test tube selected by showing it raised above the
 others. This indicates it has been clicked and it can be poured into another test tube. There are four
@@ -80,15 +86,20 @@ empty test tubes it could be poured into. Alternatively, the second last test tu
 two segments of green, or on the bottom row the third to last has a single place free with a green at
 the top.
 
+<img src="./images/Picture7.jpg">
+
 This image shows that the third to last was clicked and the green from the selected top row test tube
 has been transferred into the bottom one. It is worth noting that at any time if you wish to cancel the
 currently selected test tube you can right click. Left click will select, and right click will deselect.
 
+<img src="./images/Picture8.jpg">
 
 Continuing this puzzle, you could reach a situation as seen above where there is just one move
 remaining to complete the puzzle. By combining the two remaining pink test tubes at the bottom into
 one it will finish the puzzle and win the game. You can also see here the undo button is able to be
 clicked if it was necessary.
+
+<img src="./images/Picture9.jpg">
 
 Above you can see the result of combining the two pink test tubes to complete the puzzle. This greys
 out the background, adds the overlay test to show it has been won, and provides a Next button to
@@ -96,6 +107,7 @@ take the player to a new game with the same settings. You can also see the Diffi
 clicked here to change the difficulty before continuing. By pressing the Next button, you could get a
 new puzzle similar to the below.
 
+<img src="./images/Picture10.jpg">
 
 # 1.5 How the Core Game Works
 
